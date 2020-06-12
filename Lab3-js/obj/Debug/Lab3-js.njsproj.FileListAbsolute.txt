@@ -1,0 +1,2 @@
+C:\Users\bsamu\source\repos\Lab3-js\Lab3-js\obj\Debug\Lab3-js.njsproj.CoreCompileInputs.cache
+C:\Users\bsamu\source\repos\Lab3-js\Lab3-js\bin\Microsoft.NodejsTools.WebRole.dll
